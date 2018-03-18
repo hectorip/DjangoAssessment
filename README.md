@@ -18,4 +18,16 @@ what you did in order to make this project work.
 
 ## What should this project do
 
+The main function of this project is to store quotes of people reading books, it should store
+all the quotes a person stores an the present it as complete list of the 
+quotes stored for a book for a single user, or the quotes stored as a user, paginated.
 
+The project is currently not working, you should fix it. All that you have is what is in this repository,
+and of course, Django documentation.
+
+The instructor knows the points that are failing and will assess if you had a really understanding of the problem.
+
+## Notes
+
+Even if you can't make this work, it would be a good idea to provide your instructor with a document
+explaining what you found.
