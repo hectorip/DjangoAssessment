@@ -29,5 +29,7 @@ The instructor knows the points that are failing and will assess if you had a re
 
 ## Notes
 
-Even if you can't make this work, it would be a good idea to provide your instructor with a document
+* Even if you can't make this work, it would be a good idea to provide your instructor with a document
 explaining what you found.
+
+* This is the base assesment for course in (Advanced Django)[https://github.com/TheDojoMX/RealDjango]
